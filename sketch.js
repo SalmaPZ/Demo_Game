@@ -57,7 +57,7 @@ if(gameState==1){
   
   // boy moving on Xaxis with mouse'
   
-  rabbit.x = mouseX;
+  rabbit.x = World.mouseX;
 
  
   
